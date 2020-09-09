@@ -1,0 +1,5 @@
+misp_tag,misp_weight
+tlp:white,5
+tlp:green,10
+tlp:amber,20
+tlp:red,30
